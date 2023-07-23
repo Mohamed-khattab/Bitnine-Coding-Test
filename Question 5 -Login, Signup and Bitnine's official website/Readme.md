@@ -60,7 +60,17 @@ The sign-up page allows new users to create an account on the website. It contai
 - Sign Up button: Users can click this button to create an account.
 - Login link: A link to the login page for users who already have an account.
  <br>
-![register Page](./images/signup.png)
+![Sign-Up Page](./images/signup.png)
+
+## Home Page (index.ejs)
+
+The home page is accessible to authenticated users after successful login. It displays a personalized welcome message to the user, showing their name.
+
+**Note: The home page content and design resemble the homepage of a fictitious company named "BitNine."**
+
+### BitNine - Welcome to Our Website!
+
+![BitNine Logo](bitnine_logo.png)
 
 ## Middleware
 
