@@ -46,6 +46,9 @@ The login page allows users to log in using their email and password credentials
 - Password input: Users can enter their password.
 - Sign In button: Users can click this button to log in.
 - Registration link: A link to the registration page for users who don't have an account yet.
+   <br>
+
+![Login Page](./images/login.png)
 
 ## Sign-Up Page (register.ejs)
 
@@ -56,6 +59,8 @@ The sign-up page allows new users to create an account on the website. It contai
 - Password input: Users can enter their desired password.
 - Sign Up button: Users can click this button to create an account.
 - Login link: A link to the login page for users who already have an account.
+ <br>
+![register Page](./images/signup.png)
 
 ## Middleware
 
